@@ -1,13 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to PlayerXi's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This page contains all the information about Player's projects.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out my `Caard <https://playerxi.caard.co/>`_
+too.
 
 .. note::
 
